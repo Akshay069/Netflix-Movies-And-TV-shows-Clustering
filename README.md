@@ -8,11 +8,11 @@
 ## Index
 | Sl. No. | Section         |  
 |:--------|:-------------------------|
-|    1    |   <a href="https://github.com/Akshay069/Netflix_movies_and_tv_shows_clustering#1-introduction">   Introduction  </a>    | 
-|    2    |   <a href="https://github.com/Akshay069/Netflix_movies_and_tv_shows_clustering#2-eda-summary">   EDA Summary    </a>   | 
-|    3    | <a href="https://github.com/Akshay069/Netflix_movies_and_tv_shows_clustering#3-clustering-summary"> Clustering Summary  </a> | 
-|    4    | <a href="https://github.com/Akshay069/Netflix_movies_and_tv_shows_clustering#4-content-based-recommender-system-using-cosine-similarity"> Content Based Recommender System </a> |
-| 5 | <a href="https://github.com/Akshay069/Netflix_movies_and_tv_shows_clustering#5-conclusions"> Conclusions  </a> |
+|    1    |  Introduction | 
+|    2    |  EDA Summary  | 
+|    3    |  Clustering Summary | 
+|    4    |  Content Based Recommender System |
+| 5       |  Conclusions |
 
 ![image](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
